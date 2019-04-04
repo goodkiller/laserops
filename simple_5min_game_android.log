@@ -1,0 +1,257 @@
+[NEW] Primary Service
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0008
+	00001801-0000-1000-8000-00805f9b34fb
+	Generic Attribute Profile
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0008/char0009
+	00002a05-0000-1000-8000-00805f9b34fb
+	Service Changed
+[NEW] Descriptor
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0008/char0009/desc000b
+	00002902-0000-1000-8000-00805f9b34fb
+	Client Characteristic Configuration
+[NEW] Primary Service
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service000c
+	00001530-1212-efde-1523-785feabcd123
+	Vendor specific
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service000c/char000d
+	00001532-1212-efde-1523-785feabcd123
+	Vendor specific
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service000c/char000f
+	00001531-1212-efde-1523-785feabcd123
+	Vendor specific
+[NEW] Descriptor
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service000c/char000f/desc0011
+	00002902-0000-1000-8000-00805f9b34fb
+	Client Characteristic Configuration
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service000c/char0012
+	00001534-1212-efde-1523-785feabcd123
+	Vendor specific
+[NEW] Primary Service
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0014
+	0000180a-0000-1000-8000-00805f9b34fb
+	Device Information
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0014/char0015
+	00002a29-0000-1000-8000-00805f9b34fb
+	Manufacturer Name String
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0014/char0017
+	00002a24-0000-1000-8000-00805f9b34fb
+	Model Number String
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0014/char0019
+	00002a25-0000-1000-8000-00805f9b34fb
+	Serial Number String
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0014/char001b
+	00002a27-0000-1000-8000-00805f9b34fb
+	Hardware Revision String
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0014/char001d
+	00002a26-0000-1000-8000-00805f9b34fb
+	Firmware Revision String
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0014/char001f
+	00002a28-0000-1000-8000-00805f9b34fb
+	Software Revision String
+[NEW] Primary Service
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0021
+	073e1435-85d1-455c-97cd-0b8262f20eac
+	Vendor specific
+
+
+
+-- TRIGGER EVENT
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0021/char0022
+	073e1382-85d1-455c-97cd-0b8262f20eac
+	Vendor specific
+
+
+
+
+[NEW] Descriptor
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0021/char0022/desc0024
+	00002902-0000-1000-8000-00805f9b34fb
+	Client Characteristic Configuration
+
+
+
+
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0021/char0025
+	073e1383-85d1-455c-97cd-0b8262f20eac
+	Vendor specific
+
+
+
+
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0021/char0027
+	073e0756-85d1-455c-97cd-0b8262f20eac
+	Vendor specific
+[NEW] Descriptor
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0021/char0027/desc0029
+	00002902-0000-1000-8000-00805f9b34fb
+	Client Characteristic Configuration
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0021/char002a
+	073e0757-85d1-455c-97cd-0b8262f20eac
+	Vendor specific
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0021/char002c
+	073e1440-85d1-455c-97cd-0b8262f20eac
+	Vendor specific
+[NEW] Descriptor
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0021/char002c/desc002e
+	00002902-0000-1000-8000-00805f9b34fb
+	Client Characteristic Configuration
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0021/char002f
+	073e1441-85d1-455c-97cd-0b8262f20eac
+	Vendor specific
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0021/char0031
+	073e0755-85d1-455c-97cd-0b8262f20eac
+	Vendor specific
+[NEW] Descriptor
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0021/char0031/desc0033
+	00002902-0000-1000-8000-00805f9b34fb
+	Client Characteristic Configuration
+[NEW] Characteristic
+	/org/bluez/hci0/dev_F8_94_FF_78_E3_B9/service0021/char0034
+	073e0758-85d1-455c-97cd-0b8262f20eac
+	Vendor specific
+[CHG] Device F8:94:FF:78:E3:B9 UUIDs: 00001530-1212-efde-1523-785feabcd123
+[CHG] Device F8:94:FF:78:E3:B9 UUIDs: 00001800-0000-1000-8000-00805f9b34fb
+[CHG] Device F8:94:FF:78:E3:B9 UUIDs: 00001801-0000-1000-8000-00805f9b34fb
+[CHG] Device F8:94:FF:78:E3:B9 UUIDs: 0000180a-0000-1000-8000-00805f9b34fb
+[CHG] Device F8:94:FF:78:E3:B9 UUIDs: 073e1435-85d1-455c-97cd-0b8262f20eac
+[CHG] Device F8:94:FF:78:E3:B9 ServicesResolved: yes
+
+
+
+-- START GAME
+
+
+
+01-17 23:32:01.319 18584 20312 V FRIMA   : Scan Start requested. Time : 0, Service Filter : 073e1435-85d1-455c-97cd-0b8262f20eac
+01-17 23:32:01.319 18584 20312 I FRIMA   : StartScan called!  mIsScanning : false
+01-17 23:32:01.455 18584 20312 I FRIMA   : StartScan really called! calling callback!.. 
+01-17 23:32:01.588 18584 20312 V FRIMA   : Scan Stop requested.
+01-17 23:32:01.591 18584 20312 V FRIMA   : Bluetooth Scan Finished
+01-17 23:32:02.328 18584 20312 V FRIMA   : Scan Start requested. Time : 0, Service Filter : 073e1435-85d1-455c-97cd-0b8262f20eac
+01-17 23:32:02.328 18584 20312 I FRIMA   : StartScan called!  mIsScanning : false
+01-17 23:32:02.441 18584 20312 I FRIMA   : StartScan really called! calling callback!.. 
+01-17 23:32:04.859 18584 20312 V FRIMA   : Connection requested. Addr : F8:94:FF:78:E3:B9, Auto Connect : 0
+01-17 23:32:04.859 18584 20312 I FRIMA   : Connect on : F8:94:FF:78:E3:B9, auto = false
+01-17 23:32:05.530 18584 18595 I FRIMA   : Connected to GATT server : F8:94:FF:78:E3:B9
+01-17 23:32:05.530 18584 18595 I FRIMA   : Discovering services : F8:94:FF:78:E3:B9
+01-17 23:32:06.366 18584 20312 V FRIMA   : Notify Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1382-85d1-455c-97cd-0b8262f20eac. Enable : 1
+01-17 23:32:06.371 18584 20312 I FRIMA   : NotifyCharacteristic SUCCESS! aEnable = truetDeviceEx.mBluetoothGatt = android.bluetooth.BluetoothGatt@a9ee37etDescriptor = android.bluetooth.BluetoothGattDescriptor@2c19a8b
+01-17 23:32:06.518 18584 18714 V FRIMA   : Notify...
+01-17 23:32:06.645 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:32:06.646 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [53]
+01-17 23:32:06.647 18584 18596 V FRIMA   : Writing...
+01-17 23:32:06.765 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:32:06.766 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [91, 14]
+01-17 23:32:06.767 18584 18596 V FRIMA   : Writing...
+01-17 23:32:07.563 18584 20312 V FRIMA   : Scan Stop requested.
+01-17 23:32:07.569 18584 20312 V FRIMA   : Bluetooth Scan Finished
+
+
+-- TEST BLASTER
+
+01-17 23:32:20.179 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:32:20.181 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [80, 0, 1]
+01-17 23:32:20.182 18584 18714 V FRIMA   : Writing...
+01-17 23:32:20.299 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:32:20.300 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [78, 0, 1]
+01-17 23:32:20.315 18584 18714 V FRIMA   : Writing...
+
+
+-- TRIGGER
+01-17 23:32:26.901 18584 18595 I FRIMA   : Characteristic changed : [73]
+01-17 23:32:27.601 18584 18714 I FRIMA   : Characteristic changed : [73]
+01-17 23:32:27.881 18584 18714 I FRIMA   : Characteristic changed : [73]
+
+
+-- CHANGE BLASTER NAME
+
+01-17 23:32:38.852 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:32:38.854 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [53]
+01-17 23:32:38.854 18584 19890 V FRIMA   : Writing...
+01-17 23:32:38.906 18584 18714 I FRIMA   : Characteristic changed : [53, 0, 10, 2, 0, 0, 0, 8, 0, 0, 8, 0, 0]
+
+
+-- ADD BLASTER TO GAME
+
+
+01-17 23:33:07.389 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:33:07.391 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [54, 0, 10, 2, 2, 1, 0, 10, 1, 38, 8, 0, 10]
+01-17 23:33:07.391 18584 18714 V FRIMA   : Writing...
+01-17 23:33:07.517 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:33:07.519 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [87]
+01-17 23:33:07.520 18584 18714 V FRIMA   : Writing...
+01-17 23:33:07.637 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:33:07.639 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [54, 0, 10, 2, 2, 3, 0, 10, 1, 38, 8, 0, 4]
+01-17 23:33:07.639 18584 18595 V FRIMA   : Writing...
+01-17 23:33:07.757 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:33:07.758 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [54, 0, 10, 2, 2, 1, 0, 10, 1, 38, 8, 0, 10]
+01-17 23:33:07.759 18584 18595 V FRIMA   : Writing...
+01-17 23:33:07.928 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:33:07.930 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [87]
+01-17 23:33:07.931 18584 18596 V FRIMA   : Writing...
+01-17 23:33:08.048 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:33:08.049 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [54, 0, 10, 2, 2, 3, 0, 10, 1, 38, 8, 0, 4]
+01-17 23:33:08.050 18584 18714 V FRIMA   : Writing...
+01-17 23:33:08.168 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:33:08.170 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [81]
+01-17 23:33:08.171 18584 18714 V FRIMA   : Writing...
+01-17 23:33:08.236 18584 18596 I FRIMA   : Characteristic changed : [81, 3, 6]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01-17 23:37:29.074 18584 18714 I FRIMA   : Connected to GATT server : F8:94:FF:78:E3:B9
+01-17 23:37:29.074 18584 18714 I FRIMA   : Discovering services : F8:94:FF:78:E3:B9
+
+
+
+01-17 23:37:29.916 18584 20312 V FRIMA   : Notify Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1382-85d1-455c-97cd-0b8262f20eac. Enable : 1
+01-17 23:37:29.918 18584 20312 I FRIMA   : NotifyCharacteristic SUCCESS! aEnable = truetDeviceEx.mBluetoothGatt = android.bluetooth.BluetoothGatt@adb178tDescriptor = android.bluetooth.BluetoothGattDescriptor@2c19a8b
+01-17 23:37:30.033 18584 18595 V FRIMA   : Notify...
+01-17 23:37:30.156 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:37:30.160 18584 18714 V FRIMA   : Writing...
+01-17 23:37:30.160 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [73, 2, 2]
+01-17 23:37:30.275 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:37:30.277 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [74, 0, 10, -1, 1, 44, 0, 0, 0, 0, 39, 16]
+01-17 23:37:30.277 18584 18714 V FRIMA   : Writing...
+01-17 23:37:30.395 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:37:30.396 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [91, 14]
+01-17 23:37:30.397 18584 18714 V FRIMA   : Writing...
+01-17 23:37:30.514 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:37:30.516 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [53]
+01-17 23:37:30.517 18584 18714 V FRIMA   : Writing...
+01-17 23:37:30.604 18584 18596 I FRIMA   : Characteristic changed : [53, 0, 10, 2, 2, 1, 0, 10, 1, 38, 8, 0, 10]
+01-17 23:37:30.754 18584 20312 V FRIMA   : Write Characteristic. Addr : F8:94:FF:78:E3:B9. Char : 073e1383-85d1-455c-97cd-0b8262f20eac
+01-17 23:37:30.756 18584 20312 I FRIMA   : WriteCharacteristic SUCCESS! value = [88]
+01-17 23:37:30.756 18584 18714 V FRIMA   : Writing...
+01-17 23:37:31.081 18584 18595 I FRIMA   : Disconnected from GATT server : F8:94:FF:78:E3:B9
+01-17 23:37:32.151 18584 20312 V FRIMA   : Disconnection requested. Addr : F8:94:FF:78:E3:B9
