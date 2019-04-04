@@ -1,0 +1,28 @@
+Commands
+
+61 00				Set blue team
+61 02				Set blue team
+73 00 00			Set blue team
+
+61 01				Set red team
+80 01				Set red team
+73 00 01			Set red team
+
+61 02				Set purple team
+80 02				Set purple team
+73 00 02			Set purple team
+
+65 00 01			Start game
+66 00 01			Stop game
+78 00 01			Buzzer sound
+80 00 01			Flash red light (out of game)
+
+Notifications
+
+52					Reload
+30 02 00 02 00		Hit registration
+3e 01 09			Game over notification
+
+Unspecified notifications
+20 f8 94 ff 78 e3 b9	Notification
+...
